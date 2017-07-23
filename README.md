@@ -1,2 +1,2 @@
-# extract_
+# extract
 A simple extraction tool
